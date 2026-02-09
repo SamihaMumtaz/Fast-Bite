@@ -11,7 +11,7 @@ import {
 } from "react-icons/hi2";
 
 import { NavLink, useNavigate } from "react-router-dom";
-import logo from '../../assets/productimg/logo.PNG';
+import logo from '../../assets/productimg/logo.png';
 
 const Sidebar = () => {
   const navigate = useNavigate();
