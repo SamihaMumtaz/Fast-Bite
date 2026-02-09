@@ -331,7 +331,7 @@ import fish2 from "../assets/productimg/BBQ/fish2.jpg"
 import fish3 from "../assets/productimg/BBQ/fish3.jpg"
 import malaiTikka1 from "../assets/productimg/BBQ/malaiTikka1.jpg"
 import malaiTikka2 from "../assets/productimg/BBQ/malaiTikka2.jpg"
-import malaitikka3 from "../assets/productimg/BBQ/malaitikka3.jpg"
+import malaitikka3 from "../assets/productimg/BBQ/malaiTikka3.jpg"
 
 // Food Menu Main Categories
 
