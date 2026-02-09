@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import avatar from "../../assets/productimg/Team/avatar.PNG";
+import avatar from "../../assets/productimg/Team/avatar.png";
 import { HiOutlineSearch, HiOutlineBell, HiOutlineUserCircle, HiOutlineChevronDown } from "react-icons/hi";
 
 const Navbar = () => {
